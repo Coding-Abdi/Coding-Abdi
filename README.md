@@ -16,7 +16,7 @@ The past 16 weeks have provided me with a solid grasp of the fundamentals of HTM
 ## Examples of Work
 <a href="https://www.youtube.com/watch?v=G2TkldKFMys
 " target="_blank"><img src="https://github.com/Coding-Abdi/Coding-Abdi/blob/main/walkmate%20video%20still.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="350" height="250" border="15" /></a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coding-Abdi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/codingabdi/)  
