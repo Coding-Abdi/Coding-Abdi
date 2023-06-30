@@ -9,7 +9,7 @@ The past 16 weeks have provided me with a solid grasp of the fundamentals of HTM
 * :atom_symbol: REACT
 * :computer: HMTL, CSS, JS
 
-- 🔭 I’m currently working on securing my first role in Tech 
+- 📃 I’m currently working on securing my first role in Tech 
 - 🌱 I’m currently learning JavaScript and React
 
 
