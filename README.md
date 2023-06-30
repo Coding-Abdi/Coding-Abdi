@@ -14,8 +14,8 @@ The past 16 weeks have provided me with a solid grasp of the fundamentals of HTM
 
 
 ## Examples of Work
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://www.youtube.com/watch?v=G2TkldKFMys" 
+<a href="https://www.youtube.com/watch?v=G2TkldKFMys
+" target="_blank">
 alt="Video demo of the WalkMate app" width="240" height="180" border="10" /></a>
 
 
