@@ -9,15 +9,17 @@ The past 16 weeks have provided me with a solid grasp of the fundamentals of HTM
 * :atom_symbol: REACT
 * :computer: HMTL, CSS, JS
 
-Skills: REACT / JS / HTML / CSS
-
 - 🔭 I’m currently working on securing my first role in Tech 
-- 🌱 I’m currently learning JavaScript and React  
+- 🌱 I’m currently learning JavaScript and React
+
+
+## Examples of Work
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://www.youtube.com/watch?v=G2TkldKFMys" 
+alt="Video demo of the WalkMate app" width="240" height="180" border="10" /></a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coding-Abdi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/codingabdi/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-Abdi&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Coding-Abdi)  
 
