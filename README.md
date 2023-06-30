@@ -17,6 +17,7 @@ The past 16 weeks have provided me with a solid grasp of the fundamentals of HTM
 <a href="https://www.youtube.com/watch?v=G2TkldKFMys
 " target="_blank"><img src="https://github.com/Coding-Abdi/Coding-Abdi/blob/main/walkmate%20video%20still.png" 
 alt="IMAGE ALT TEXT HERE" width="350" height="250" border="15" /></a>
+
 [WalkMate - An app that connects people through nature](https://walkmate.netlify.app)
 
 
