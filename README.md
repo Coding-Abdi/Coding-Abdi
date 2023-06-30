@@ -7,4 +7,4 @@ I have just completed a 16-week Tech bootcamp with the School of Code. My time w
 The past 16 weeks have provided me with a solid grasp of the fundamentals of HTML, CSS, JavaScript, and React, amongst others, and I can’t wait to join a company that will allow me to add value to their organization in an environment that ensures that I can continue my tech learning journey.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-Abdi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-abdi)](https://github.com/anuraghazra/github-readme-stats)
