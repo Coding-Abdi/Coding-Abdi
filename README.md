@@ -16,7 +16,7 @@ The past 16 weeks have provided me with a solid grasp of the fundamentals of HTM
 ## Examples of Work
 **WalkMate Video Demo**
 
-<a href="https://www.youtube.com/watch?v=G2TkldKFMys
+<a href="https://www.youtube.com/watch?v=6dke13ug2H0
 " target="_blank"><img src="https://github.com/Coding-Abdi/Coding-Abdi/blob/main/walkmate%20video%20still.png" 
 alt="IMAGE ALT TEXT HERE" width="350" height="250" border="15" /></a>
 
