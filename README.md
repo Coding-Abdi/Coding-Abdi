@@ -23,7 +23,7 @@ alt="IMAGE ALT TEXT HERE" width="350" height="250" border="15" /></a>
 [Website for WalkMate - An app that connects people through nature](https://walkmate.netlify.app)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coding-Abdi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/codingabdi/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coding-Abdi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/codingabdi/)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Coding-Abdi)  
 
