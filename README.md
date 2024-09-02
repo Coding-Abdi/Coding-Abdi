@@ -1,9 +1,9 @@
 ![Junior Software Developer](https://github.com/Coding-Abdi/Coding-Abdi/blob/main/Banner.png)
 
 # Abdullahi Hussein
-Hi, I'm Abdi and I have just completed a 16-week Tech bootcamp with the School of Code. My time with the School of Code has confirmed my suspicions – the tech world offers challenging and fun problems that can be solved with creativity, resilience, and teamwork.
+Hi, I'm Abdi and I have completed a 16-week Tech bootcamp with the School of Code. My time with the School of Code has confirmed my suspicions – the tech world offers challenging and fun problems that can be solved with creativity, resilience, and teamwork.
 
-The past 16 weeks have provided me with a solid grasp of the fundamentals of HTML, CSS, JavaScript, and React, amongst others, and I can’t wait to join a company that will allow me to add value to their organization in an environment that ensures that I can continue my tech learning journey.
+The 16-week bootcamp has provided me with a solid grasp of the fundamentals of HTML, CSS, JavaScript, and React, amongst others, and I can’t wait to join a company that will allow me to add value to their organization in an environment that ensures that I can continue my tech learning journey.
 
 ## Skills and Experience
 * :atom_symbol: REACT
